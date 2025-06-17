@@ -14,8 +14,9 @@
 </p>
 
 ---
-
-<img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-1/480204214_3785947338402754_3116356376973282975_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHsOhYNJU6CKXtD8zmiS8i9DXL3uy8b7CwNcve7LxvsLGE7UTAAG1wIW7NMWyNdo7IDqhDjRWZR8RiJDY-4C_f_&_nc_ohc=ERWJJtbmcNgQ7kNvwHGa5_L&_nc_oc=Adnr_EDQV28euIqmlM3tR-9w0hOVPTEPbq-811FOdCR4mQ0qd5FlhRA_M7kqt2x7k-E&_nc_zt=24&_nc_ht=scontent.fdac24-2.fna&_nc_gid=imwj7QR_U1QqB6Xmn0nBJg&oh=00_AfMSJvOuz5a3_BsfYMvVaoKlR0D6vqzolmk1bFmDYNV4gA&oe=68577DCF" alt="Welcome Banner" style="height:100px; object-fit: cover; text-align:center"/>
+<p align="center">
+<img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-1/480204214_3785947338402754_3116356376973282975_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHsOhYNJU6CKXtD8zmiS8i9DXL3uy8b7CwNcve7LxvsLGE7UTAAG1wIW7NMWyNdo7IDqhDjRWZR8RiJDY-4C_f_&_nc_ohc=ERWJJtbmcNgQ7kNvwHGa5_L&_nc_oc=Adnr_EDQV28euIqmlM3tR-9w0hOVPTEPbq-811FOdCR4mQ0qd5FlhRA_M7kqt2x7k-E&_nc_zt=24&_nc_ht=scontent.fdac24-2.fna&_nc_gid=imwj7QR_U1QqB6Xmn0nBJg&oh=00_AfMSJvOuz5a3_BsfYMvVaoKlR0D6vqzolmk1bFmDYNV4gA&oe=68577DCF" alt="Welcome Banner" style="height:100px; object-fit: cover; text-align:center; border-radius: 50%"/>
+</p>
 
 <p align="center">
   <b>Passionate about building robust backend systems and modern web applications.<br>
