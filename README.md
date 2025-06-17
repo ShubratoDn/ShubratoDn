@@ -15,6 +15,8 @@
 
 ---
 
+<img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/480204214_3785947338402754_3116356376973282975_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHsOhYNJU6CKXtD8zmiS8i9DXL3uy8b7CwNcve7LxvsLGE7UTAAG1wIW7NMWyNdo7IDqhDjRWZR8RiJDY-4C_f_&_nc_ohc=ERWJJtbmcNgQ7kNvwHGa5_L&_nc_oc=Adnr_EDQV28euIqmlM3tR-9w0hOVPTEPbq-811FOdCR4mQ0qd5FlhRA_M7kqt2x7k-E&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=noQ_1CoFasbautxd-6SyHA&oh=00_AfMQG5-EIpSxTaQF7BdYprf6Oy0usRnJNShLUNrjjcheFw&oe=68574E0D" alt="Welcome Banner" style="display:flex; margin: 15px auto; height:100px; object-fit: cover; border-radius: 50%"/>
+
 <p align="center">
   <b>Passionate about building robust backend systems and modern web applications.<br>
   I love solving real-world problems with clean code and scalable architecture.</b>
@@ -115,6 +117,33 @@
 | Databases (MySQL, PostgreSQL, Oracle) | 15% |
 | API Integration           | 10%         |
 | HTML/CSS/JS               | 10%         |
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubratoDn&theme=radical" alt="GitHub Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShubratoDn&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,php,mysql,postgresql,git,html,css,js" />
+</p>
+
+<details>
+  <summary>More About Me</summary>
+  <p>
+    <ul>
+      <li>🌟 I love open-source and contributing to the developer community.</li>
+      <li>🎯 My goal is to build scalable, maintainable, and impactful software solutions.</li>
+      <li>🎵 Outside of coding, I enjoy music, reading, and exploring new tech trends.</li>
+    </ul>
+  </p>
+</details>
 
 ---
 
