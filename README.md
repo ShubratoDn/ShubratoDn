@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubrato Debnath</h1>
-<h3 align="center">Full-Stack Java & Spring Boot Developer | React Enthusiast | API Integration Specialist</h3>
+<h3 align="center">Full-Stack Java & Spring Boot Developer | React Enthusiast | API & Security Integration Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/ShubratoDn">
